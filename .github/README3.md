@@ -39,3 +39,6 @@ Immaculate database management
 Conducting market analysis provides the necesary data for market size and growth potential
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Understanding these trends will inform decision making on issues such as direction of the market, the type of target clients, possible challenges, opportunities and changing legislation that might affect use and data privacy. 
+
+
+#commit
